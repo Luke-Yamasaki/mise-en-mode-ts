@@ -1,0 +1,10 @@
+[
+  {
+    "mode": "dark",
+    "href": "_dark.css"
+  },
+  {
+    "mode": "light",
+    "href": "_light.css"
+  }
+]

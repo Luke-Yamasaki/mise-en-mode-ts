@@ -1,0 +1,9 @@
+# yaml-language-server: $schema=./_schema.json
+mode: light
+tokens:
+  $surface_primary_backgroundColor:
+    $value: Cyan
+  $surface_primary_foregroundColor:
+    $value: MidnightBlue
+  $text_primary_fontFamily:
+    $value: fantasy
